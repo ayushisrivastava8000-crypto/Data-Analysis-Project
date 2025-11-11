@@ -1,2 +1,2 @@
 # Data-Analysis-Project
-converted a raw data into meaningful dashboard and draw meaningful insight
+Converted a raw data into meaningful dashboard and draw meaningful insight
